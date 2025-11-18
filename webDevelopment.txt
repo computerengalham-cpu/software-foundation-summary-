@@ -8,3 +8,20 @@ The backend is the server-side part of an application and handles all the logic,
 
 Database:
 The database stores and manages all the data used by the application. This includes user accounts, transactions, products, messages, records, and more. Databases can be relational (SQL Server, PostgreSQL, MySQL) or non-relational (MongoDB). The database ensures data is organized, retrievable, and safe from loss. It works closely with the backend to store and deliver information to the frontend.
+
+.NET Stack Tools: SQL Server, C#, EF Core, LINQ, Blazor
+
+SQL Server:
+SQL Server is a relational database system developed by Microsoft. It stores structured data in tables and supports powerful querying using SQL. It provides tools for data security, backup, performance optimization, and enterprise-level data management. SQL Server works seamlessly with .NET applications.
+
+C#:
+C# is an object-oriented programming language used in the .NET ecosystem. It is known for its strong typing, performance, and safety features. C# is used to build web applications, desktop applications, mobile apps, APIs, games (Unity), and cloud services. It combines productivity with high performance.
+
+EF Core (Entity Framework Core):
+EF Core is an ORM (Object Relational Mapper) for .NET that allows developers to interact with databases using C# objects instead of SQL queries. It simplifies data access, migrations, and database structure management. EF Core supports SQL Server, PostgreSQL, MySQL, SQLite, and more.
+
+LINQ (Language Integrated Query):
+LINQ is a set of features in C# that allows querying collections, objects, and databases using readable, concise syntax. It replaces complex loops and conditions with simple queries. LINQ works seamlessly with EF Core to query databases in a clean and efficient way.
+
+Blazor:
+Blazor is a .NET framework for building interactive web user interfaces using C# instead of JavaScript. It supports two modes: Blazor Server and Blazor WebAssembly. Blazor enables full-stack development using a single language (C#) and integrates tightly with the .NET ecosystem.
