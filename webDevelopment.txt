@@ -25,3 +25,16 @@ LINQ is a set of features in C# that allows querying collections, objects, and d
 
 Blazor:
 Blazor is a .NET framework for building interactive web user interfaces using C# instead of JavaScript. It supports two modes: Blazor Server and Blazor WebAssembly. Blazor enables full-stack development using a single language (C#) and integrates tightly with the .NET ecosystem.
+
+Comparison Between C#, Java, and Python
+
+Language | Compile Type | Speed | Typical Usage | Advantages | Latest Version (as of 2024)
+-------------------------------------------------------------------------------------------------------
+C#       | Compiled to IL then JIT | Fast | Web apps (.NET), games (Unity), enterprise apps | Strong typing, fast, modern, excellent tooling | C# 12
+Java     | Compiled to bytecode (JVM) | Medium-Fast | Enterprise applications, Android, backend systems | Portable, scalable, huge ecosystem | Java 21 (LTS)
+Python   | Interpreted | Slower | AI/ML, data science, automation, scripting | Easy to learn, massive libraries | Python 3.12
+
+Additional Notes:
+- C# is known for high performance, modern features, and integration with Microsoft’s ecosystem.
+- Java is widely used in large organizations for reliability and cross-platform support.
+- Python is the easiest to write and read, making it ideal for beginners, AI, and rapid development.
