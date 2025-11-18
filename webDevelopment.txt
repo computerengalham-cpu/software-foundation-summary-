@@ -1,0 +1,10 @@
+Responsibilities of Frontend, Backend, and Database
+
+Frontend:
+The frontend is the part of the application that the user sees and interacts with. It includes the visual layout, styling, buttons, forms, and overall user experience. Frontend developers use technologies such as HTML, CSS, and JavaScript to build responsive and user-friendly interfaces. The main goal is to ensure the website is easy to navigate, visually appealing, and accessible across devices.
+
+Backend:
+The backend is the server-side part of an application and handles all the logic, processing, and communication between the database and the frontend. It is responsible for authentication, authorization, APIs, data processing, and server operations. Backend developers use programming languages like C#, Java, Python, PHP, or Node.js. The backend ensures that the application is secure, reliable, and performs efficiently.
+
+Database:
+The database stores and manages all the data used by the application. This includes user accounts, transactions, products, messages, records, and more. Databases can be relational (SQL Server, PostgreSQL, MySQL) or non-relational (MongoDB). The database ensures data is organized, retrievable, and safe from loss. It works closely with the backend to store and deliver information to the frontend.
